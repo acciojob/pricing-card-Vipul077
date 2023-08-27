@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+.card{
+	position: relative;
+	text-align: center;
+	padding: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	width: 200px;
+	height: 350px;
+	background-color: #F1F1F1;
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    width: 40%;
+}
+.container{
+	padding: 2px 16px;
+	text-align: center;
+}
+
+.btn{
+	position: absoulte;
+	text-align: center;
+	verticle-align: middle;
+	border-radius: 15px;
+	background-color: #FE625A;
+	width: 100px;
+	height: 40px;
+}
